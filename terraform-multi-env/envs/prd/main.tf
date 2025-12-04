@@ -1,4 +1,4 @@
 module "bucket" {
-  source  = "../../modules/bucket"
-  env     = "prd"
+  source = "../../modules/bucket"
+  env    = "prd"
 }
